@@ -6,16 +6,6 @@
 
 ##
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
-
-
-                  
 <!--
 **brunoFelix14/brunoFelix14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
