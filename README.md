@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoFelix14&show_icons=true&theme=midnight-purple) 
+
+<img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+
+##
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
+
+
+                  
 <!--
 **brunoFelix14/brunoFelix14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
