@@ -1,7 +1,7 @@
 ## Hello 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoFelix14&show_icons=true&theme=midnight-purple)
-<img height = 185 src = "https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="200px" style="vertical-align: middle;"/>
+<img src = "https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="200px" style="vertical-align: middle;"/>
 
 <img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
