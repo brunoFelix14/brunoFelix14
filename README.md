@@ -1,25 +1,24 @@
-## Hello 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=200&section=header&text=Hello%20World%20👋%20Sou%20o%20Bruno%20Felix&fontSize=40&animation=fadeIn" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoFelix14&show_icons=true&theme=midnight-purple)
-<img src = "https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="200px" style="vertical-align: middle;"/>
+<p align="center">
+  <img src="seu-arquivo.gif" width="100%" alt="Banner Decorativo">
+</p>
 
-<img height = 50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<div align="center">
 
+### 👨‍💻 Sobre Mim
+Estudante de **Engenharia de Computação** no IFMS (Três Lagoas).  
+Atualmente focado em desenvolvimento de jogos e algoritmos.
 
+---
 
-##
+### 📊 Estatísticas
+![Stats do Bruno](https://github-readme-stats.vercel.app/api?username=brunoFelix14&show_icons=true&theme=midnight-purple)
 
-<!--
-**brunoFelix14/brunoFelix14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+</p>
