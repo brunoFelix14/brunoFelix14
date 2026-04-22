@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="seu-arquivo.gif" width="100%" alt="Banner Decorativo">
+  <img src="🔥 Free download Morgan Codes 4k Wallpaper Code Coding on WallpaperSafari.jpeg" width="100%" alt="Banner Decorativo">
 </p>
 
 <div align="center">
