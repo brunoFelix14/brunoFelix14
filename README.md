@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=200&section=header&text=Hello%20World%20👋%20Sou%20o%20Bruno%20Felix&fontSize=40&animation=fadeIn" />
-</p>
+<h1 align="center">🕹️ Hello World! Eu sou o Bruno Felix! 💜</h1>
 
 <p align="center">
   <img src="🔥 Free download Morgan Codes 4k Wallpaper Code Coding on WallpaperSafari.jpeg" width="100%" alt="Banner Decorativo">
@@ -10,7 +8,7 @@
 
 ### 👨‍💻 Sobre Mim
 Estudante de **Engenharia de Computação** no IFMS (Três Lagoas).  
-Atualmente focado em desenvolvimento de jogos e algoritmos.
+Atualmente no quarto semestre(4/10).
 
 ---
 
