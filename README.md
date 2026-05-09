@@ -39,6 +39,12 @@
 
 ### 🚀 Projetos em Destaque
 
+| Projeto | Descrição | Status/Tecnologias |
+| :--- | :--- | :--- |
+| 💻 **[ALGORITMOS 1](https://github.com/brunoFelix14/algoritmos1.git)** | Resolução das listas de exercícios da disciplina de Algoritmos 1. | `Algoritmos` `C` |
+| 🌳 **[ALGORITMOS 2](https://github.com/brunoFelix14/Algoritmos_2.git)** | Resolução das listas de exercícios da disciplina de Algoritmos 2. | `Algoritmos` `C` |
+| 📦 **[PROGRAMAÇÃO ORIENTADA A OBJETOS](https://github.com/brunoFelix14/POO.git)** | Resolução das listas de exercícios da disciplina de Programação Orientada a Objetos. | `POO` `C++` |
+| 🕶️ **[Morpheus](link-do-repo-morpheus)** | *[Breve descrição do que o sistema/jogo Morpheus faz]* | `Tecnologia 1` `Tecnologia ` |
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brunoFelix14&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Stats do Bruno" />
