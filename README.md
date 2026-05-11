@@ -45,10 +45,10 @@
 | 📦 **[PROGRAMAÇÃO ORIENTADA A OBJETOS](https://github.com/brunoFelix14/POO.git)** | Resolução das listas de exercícios da disciplina de Programação Orientada a Objetos. | `POO` `C++` |
 | 🕶️ **[Morpheus](link-do-repo-morpheus)** | *[Breve descrição do que o sistema/jogo Morpheus faz]* | `Tecnologia 1` `Tecnologia ` |
 
+### 📊 Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunoFelix14&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Stats do Bruno" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunoFelix14&theme=midnight-purple&hide_border=true&background=0D1117" alt="Streak do Bruno" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunoFelix14&show_icons=true&theme=midnight-purple&hide_border=true" alt="Stats do Bruno" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunoFelix14&theme=midnight-purple&hide_border=true" alt="Streak do Bruno" height="195" />
 </div>
 ---
 
