@@ -43,7 +43,9 @@
 | 💻 **[ALGORITMOS 1](https://github.com/brunoFelix14/algoritmos1.git)** | Resolução das listas de exercícios da disciplina de Algoritmos 1. | `Algoritmos` `C` |
 | 🌳 **[ALGORITMOS 2](https://github.com/brunoFelix14/Algoritmos_2.git)** | Resolução das listas de exercícios da disciplina de Algoritmos 2. | `Algoritmos` `C` |
 | 📦 **[PROGRAMAÇÃO ORIENTADA A OBJETOS](https://github.com/brunoFelix14/POO.git)** | Resolução da listas de exercícios da disciplina de Programação Orientada a Objetos. | `POO` `C++` |
-| 🕶️ **[Morpheus](https://github.com/isamartins-engcomput/BIG.vp-AKINATOR-ArvoresED2)** | *Releitura do jogo Akinator para a disciplina de Estrutura de Dados 2 com uso de Árvores* | `C` `Raylib ` |
+| 🕶️ **[MORPHEUS](https://github.com/isamartins-engcomput/BIG.vp-AKINATOR-ArvoresED2)** | Releitura do jogo Akinator para a disciplina de Estrutura de Dados 2 com uso de Árvores | `Raylib  ` `C ` |
+| 💻 **[IFMS SIMULATOR](https://github.com/brunoFelix14/IFMS_SIMULATOR/tree/master)** | Paródia de um jogo no estilo Visual Novel contando a história do primeiro semestre em Eng. Comp no IFMS. | `RenPy` `Python` |
+
 
 ### 📫 Conecte-se comigo
 <div align="center">
