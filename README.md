@@ -42,15 +42,8 @@
 | :--- | :--- | :--- |
 | 💻 **[ALGORITMOS 1](https://github.com/brunoFelix14/algoritmos1.git)** | Resolução das listas de exercícios da disciplina de Algoritmos 1. | `Algoritmos` `C` |
 | 🌳 **[ALGORITMOS 2](https://github.com/brunoFelix14/Algoritmos_2.git)** | Resolução das listas de exercícios da disciplina de Algoritmos 2. | `Algoritmos` `C` |
-| 📦 **[PROGRAMAÇÃO ORIENTADA A OBJETOS](https://github.com/brunoFelix14/POO.git)** | Resolução das listas de exercícios da disciplina de Programação Orientada a Objetos. | `POO` `C++` |
-| 🕶️ **[Morpheus](link-do-repo-morpheus)** | *[Breve descrição do que o sistema/jogo Morpheus faz]* | `Tecnologia 1` `Tecnologia ` |
-
-### 📊 Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunoFelix14&show_icons=true&theme=midnight-purple&hide_border=true" alt="Stats do Bruno" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunoFelix14&theme=midnight-purple&hide_border=true" alt="Streak do Bruno" height="195" />
-</div>
----
+| 📦 **[PROGRAMAÇÃO ORIENTADA A OBJETOS](https://github.com/brunoFelix14/POO.git)** | Resolução da listas de exercícios da disciplina de Programação Orientada a Objetos. | `POO` `C++` |
+| 🕶️ **[Morpheus](https://github.com/isamartins-engcomput/BIG.vp-AKINATOR-ArvoresED2)** | *Releitura do jogo Akinator para a disciplina de Estrutura de Dados 2 com uso de Árvores* | `C` `Raylib ` |
 
 ### 📫 Conecte-se comigo
 <div align="center">
